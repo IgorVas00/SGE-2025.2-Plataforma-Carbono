@@ -103,7 +103,7 @@ O projeto foi desenvolvido com base em metodologias ágeis e centradas no usuár
 - Saunay  
 - Igor  
 - Lucas  
-- Sofia
+- Sofia Ribeiro
 
 ---
 
